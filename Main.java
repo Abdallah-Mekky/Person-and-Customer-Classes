@@ -1,12 +1,10 @@
-package javaapplication24;
+package javaapplication;
 
 import java.util.Scanner;
 
+public class JavaApplication{
 
-public class JavaApplication24 {
-
-    
-    public static void main(String[] args) {
+     public static void main(String[] args) {
         String Name,Address;
         int Telephone_Num,Customer_Num;
         boolean Mailing_List;
